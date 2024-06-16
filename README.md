@@ -43,8 +43,3 @@ To compile and run the program:
 
 #### References
 - No external libraries or non-primitive data structures (e.g., vectors) are used, as per project requirements.
-
-#### Contact
-For any questions or clarifications, feel free to contact [Your Name] at [Your Email Address].
-
-This readme file serves as a guide for setting up and understanding the Mario game simulation project. Adjust paths and specifics according to your project setup and requirements.
