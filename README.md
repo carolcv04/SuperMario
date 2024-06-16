@@ -1,4 +1,4 @@
-# SuperMario
+# Not So Super Mario
 
 ### Mario Game Simulation Readme
 
